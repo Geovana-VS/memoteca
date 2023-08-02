@@ -1,0 +1,34 @@
+{
+  "pensamentos": [
+    {
+      "conteudo": "No meu computador funciona  editado",
+      "autoria": "Odair editado",
+      "modelo": "modelo3",
+      "id": 1
+    },
+    {
+      "conteudo": "passarinho que come pedra saber o cu que tem ",
+      "autoria": "Mãe tida",
+      "modelo": "modelo1",
+      "id": 2
+    },
+    {
+      "conteudo": "Eu amo meu grudinho",
+      "autoria": "Amor",
+      "modelo": "modelo2",
+      "id": 3
+    },
+    {
+      "conteudo": "Voce é linda",
+      "autoria": "Moreno",
+      "modelo": "modelo3",
+      "id": 4
+    },
+    {
+      "conteudo": "Te amo teste",
+      "autoria": "meu bem",
+      "modelo": "modelo1",
+      "id": 5
+    }
+  ]
+}
